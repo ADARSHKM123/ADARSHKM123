@@ -1,39 +1,67 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Adarsh</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+# Adarsh K M
 
+**Full-Stack Developer · Building products, not just features**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshkm123&label=Profile%20views&color=0e75b6&style=flat" alt="adarshkm123" /> </p>
+Bengaluru, India &nbsp;·&nbsp; 4+ years shipping web applications &nbsp;·&nbsp; MERN · PostgreSQL · AWS
 
-<p align="left"> <a href="https://twitter.com/adarshk58750173" target="blank"><img src="https://img.shields.io/twitter/follow/adarshk58750173?logo=twitter&style=for-the-badge" alt="adarshk58750173" /></a> </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-askadarsh.com-1f2937?style=flat-square)](https://askadarsh.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adarsh%20K%20M-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarshkmeethal)
+[![Email](https://img.shields.io/badge/Email-adarshkmeethal%40gmail.com-1f2937?style=flat-square&logo=gmail&logoColor=white)](mailto:adarshkmeethal@gmail.com)
 
-- 🔭 I’m currently working on [Edex Project](https://github.com/ADARSHKM123/edex)
+</div>
 
-- 🌱 I’m currently learning **Socket.io**
+<br>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ADARSHKM123?tab=repositories](https://github.com/ADARSHKM123?tab=repositories)
+## About
 
-- 💬 Ask me about **Nodejs React Javascript**
+I'm a full-stack developer who works across the entire product lifecycle — from architecture and backend systems to the UI users actually touch. My core stack is **JavaScript/TypeScript, React, Node.js, and PostgreSQL**, deployed on **AWS**, and I'm currently extending that into **Python and applied AI/ML** — building agents, voice interfaces, and automation into production products rather than treating AI as a side experiment.
 
-- 📫 How to reach me **adarshkmeethal@gmail.com**
+I care about software that's built to last: clear architecture, sensible trade-offs, and code the next person (often future-me) can actually maintain.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/adarshk58750173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adarshk58750173" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adarshkmeethal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarshkmeethal" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14884232/adarsh-km" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14884232/adarsh-km" height="30" width="40" /></a>
-<a href="https://fb.com/adarsh km" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adarsh km" height="30" width="40" /></a>
-<a href="https://instagram.com/adarshkm24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adarshkm24" height="30" width="40" /></a>
-<a href="https://dribbble.com/adarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="adarsh" height="30" width="40" /></a>
-<a href="https://discord.gg/ADARSH#4361" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ADARSH#4361" height="30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshkm123&show_icons=true&locale=en&layout=compact" alt="adarshkm123" /></p>
+**Languages & Runtime**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshkm123&show_icons=true&locale=en" alt="adarshkm123" /></p>
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshkm123&" alt="adarshkm123" /></p>
+**Backend & Data**
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+**Cloud, DevOps & Tools**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+<br>
+
+## Currently
+
+- 🔭 Building AI-driven product features — voice interfaces, automation agents, and applied ML on top of a MERN foundation
+- 🌱 Deepening my Python and AI/ML engineering skills
+- 🤝 Open to full-stack and AI engineering roles, contract work, and interesting collaborations
+- 📫 Reach me at **adarshkmeethal@gmail.com** or [LinkedIn](https://linkedin.com/in/adarshkmeethal)
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=adarshkm123&show_icons=true&hide_border=true&theme=default&hide_title=true&count_private=true" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshkm123&layout=compact&hide_border=true&theme=default&hide_title=true" alt="Top languages" height="165"/>
+
+</div>
